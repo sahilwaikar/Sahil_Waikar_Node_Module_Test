@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "sources": [
+        "banner.scss",
+        "banner.css"
+    ],
+    "names": [],
+    "mappings": "AAAA;EACI,eAAA;ACCJ;ADCQ;EACI,eAAA;ACCZ",
+    "file": "banner.css"
+}
